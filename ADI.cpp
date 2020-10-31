@@ -95,9 +95,9 @@ while(true);
   int main()
 { 
    FAST
-   int t;
-    t=1;                 //
-    while(t--)
+   int var;
+    var=1;                 //
+    while(var--)
     {
        //cout<<"Case #"<<n-t<<": ";
         solve();
